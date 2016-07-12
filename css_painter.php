@@ -162,7 +162,7 @@ class css_painter {
 			}
 			imagedestroy($image);
 		} else {
-			echo 'A wrong path: the image will be only PNG or MBP or JPEG style!';
+			echo 'A wrong path: the image will be only PNG or MBP or JPEG!';
 		}
 	}
 	/**
