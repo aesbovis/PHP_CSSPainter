@@ -7,8 +7,9 @@
  * @lisence: GPLv3
  * @date   : 2016-07
  * @Description:
- * The css painter will analyse the image file,
- * and draw it on the web page via CSS with only one div, using the property box-shadow.
+ * The css painter will analyse the image file
+ * and draw it on the web page with only one div by CSS
+ * using the property box-shadow.
  */
 
 /**
